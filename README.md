@@ -1,47 +1,48 @@
 # nuevos-inventos-ia
 
-Nuevos inventos generados con IA.
+# nuevos-inventos-ia  Nuevos inventos generados con IA.  **Autor:** Lázaro López Paz · **Licencia:** MIT (ver `LICENSE`)
 
-**Autor:** Lázaro López Paz · **Licencia:** MIT (ver `LICENSE`)
+## Autoría
 
-## Carpetas de origen en Google Drive
+- **Autor:** Lázaro López Paz, El Prat de Llobregat, Barcelona, España
+- **ORCID:** [0000-0001-8601-1963](https://orcid.org/0000-0001-8601-1963)
+- Elaborado con asistencia de inteligencia artificial
+- Sin afiliaciones institucionales
 
-- https://drive.google.com/drive/folders/13Ap9e6zDecsKUuszXPzQ4zPUUq_3A3ue
+## Estado
 
-## Archivos incluidos
+Proyecto en desarrollo / documentación. No afirmar validación experimental salvo que el código o los informes del propio repositorio lo demuestren.
 
-- `Perfecto._Aqui.txt` ← Perfecto. Aquí.txt
+## Contenido (raíz)
 
-## Pendiente: en Drive
+```
+casimir/
+DATOS_PENDIENTES.md
+datos_pendientes.yaml
+LICENSE
+Perfecto._Aqui.txt
+README.md
+REFERENCIAS.md
+requirements.txt
+tests/
+```
 
-Archivos binarios (presentaciones, PDFs grandes, vídeos, imágenes, zips, docx) que no se pudieron pasar a texto. Siguen en Drive:
+## Instalación
 
-- 10_20260504_183712_0009.png · pendiente: en Drive · https://drive.google.com/file/d/1zpTBodLJ1Z67pBcrEGPsmiwzZGgBYBKA/view?usp=drivesdk
-- 11_20260504_183712_0010.png · pendiente: en Drive · https://drive.google.com/file/d/1KLDbK6tb5gH-i_sNv-N3oBHBqDMUcszL/view?usp=drivesdk
-- 12_20260504_183712_0011.png · pendiente: en Drive · https://drive.google.com/file/d/1v5Y2Z8vqcjc9Dw1SCF2L3dmJWHFiQC1L/view?usp=drivesdk
-- 13_20260504_183712_0012.png · pendiente: en Drive · https://drive.google.com/file/d/10YyEs4fW4SceWF5nz_X4Ug_LEwAHzPt1/view?usp=drivesdk
-- 14_20260504_183712_0013.png · pendiente: en Drive · https://drive.google.com/file/d/1DnLSrAk9Intr4e157fa-hrYL4fkepBbm/view?usp=drivesdk
-- 15_20260504_183712_0014.png · pendiente: en Drive · https://drive.google.com/file/d/1OD7wE8MTpbQired1vyy_0doVwyFxFrRe/view?usp=drivesdk
-- 16_20260504_183712_0015.png · pendiente: en Drive · https://drive.google.com/file/d/1nWvMKh82g1dzvHXOiw4044vp-DoKy45M/view?usp=drivesdk
-- 1_20260504_183712_0000.png · pendiente: en Drive · https://drive.google.com/file/d/1FWCROyEorr78LVhDXPaMZVDbXrFHdtN3/view?usp=drivesdk
-- 2_20260504_183712_0001.png · pendiente: en Drive · https://drive.google.com/file/d/1egGaWpCirM42ECSsqG0_PhzbHEMUzWgv/view?usp=drivesdk
-- 3_20260504_183712_0002.png · pendiente: en Drive · https://drive.google.com/file/d/1UaV7KLbTue0HUVwzdoNBHZpNwK9lkBtv/view?usp=drivesdk
-- 4_20260504_183712_0003.png · pendiente: en Drive · https://drive.google.com/file/d/1FD_n16Jg_u5B_53E3wWRUZbQtkwbx5qJ/view?usp=drivesdk
-- 5_20260504_183712_0004.png · pendiente: en Drive · https://drive.google.com/file/d/1GxtQDNAojmj2hQLU_AhDrZopoq0ZRXF4/view?usp=drivesdk
-- 6_20260504_183712_0005.png · pendiente: en Drive · https://drive.google.com/file/d/1PoZa7p25e_QtjWO0CJsQWRbaJhyLynYZ/view?usp=drivesdk
-- 7_20260504_183712_0006.png · pendiente: en Drive · https://drive.google.com/file/d/1MC0E3B2CYuQRr4Ixgt19IodLndsFbMua/view?usp=drivesdk
-- 8_20260504_183712_0007.png · pendiente: en Drive · https://drive.google.com/file/d/10pGFs7wBzFjOsmveqv6L7YiSVRQaQuFT/view?usp=drivesdk
-- 9_20260504_183712_0008.png · pendiente: en Drive · https://drive.google.com/file/d/1s7aLfIl_ULqXe7KlAL2-C72xoYLcEiK8/view?usp=drivesdk
-- TODO_COMPLETO.docx · pendiente: en Drive · https://docs.google.com/document/d/1qWGRFMBPL8Gd4F-GiFG98297eFqPEBHu/edit?usp=drivesdk&ouid=104725215047766891127&rtpof=true&sd=true
-- The_Quantum_Blueprint_(3).pdf · pendiente: en Drive · https://drive.google.com/file/d/1_u5I5w0zP3W20ymEEPe-1P8pJ7J5UETS/view?usp=drivesdk
-- The_Quantum_Blueprint_(3).pptx · pendiente: en Drive · https://docs.google.com/presentation/d/1qoT2abZcsi88YAG2Xl_aIB0tEK7pqjDQ/edit?usp=drivesdk&ouid=104725215047766891127&rtpof=true&sd=true
-- Él futuro de la Cuántica.png · pendiente: en Drive · https://drive.google.com/file/d/1Y0YBKCnXTjmrRTbafCTTht_top3jt1Ra/view?usp=drivesdk
+```bash
+pip install -r requirements.txt
+```
 
----
-Los archivos `.trashed-*`, las copias («- copia») y los duplicados entre carpetas no se han listado.
 
-## Módulo funcional `casimir` (esperando datos)
+## Uso
 
-casimir: presión de Casimir entre placas ideales, P = π²ħc/(240 d⁴), y la fuerza del sensor A2 del documento del autor (d = 50 nm, A = 1e-4 m², eps 55 y 57). AVISO: el factor (eps−1)/(eps+1) del autor es una aproximación heurística, no la teoría de Lifshitz. Por debajo de unos 100 nm tampoco valen las placas ideales.
+Archivos Python principales (revisar cada uno antes de ejecutar):
+- `casimir/__init__.py`
+- `casimir/pendientes.py`
+- `tests/conftest.py`
+- `tests/test_casimir.py`
 
-`pip install -r requirements.txt && python -m pytest -q`. Los datos que faltan están en [DATOS_PENDIENTES.md](DATOS_PENDIENTES.md).
+
+## Licencia
+
+Ver archivo `LICENSE` (o `LICENSE.md`) en la raíz. Documentación bajo CC BY 4.0 cuando aplique; código habitualmente MIT, salvo indicación contraria.
